@@ -56,4 +56,19 @@ input{
 
 .btn{
     background-color: crimson;
-} 
+}
+.bmiCalc:hover{
+    background-color: crimson;
+}
+
+.btn:hover{
+    background-color: chartreuse;
+}
+
+#height{
+    background-color: chartreuse;
+}
+
+#weight{
+    background-color: chartreuse;
+}
